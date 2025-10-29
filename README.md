@@ -25,7 +25,7 @@ It analyzes uploaded contracts, compares their clauses with Moroccan contract la
 ---
 
 # Documentation
- [The project representation (PDF)](./lawlik.pdf)
+ [The project representation (PDF)](./Lawlik.pdf)
 
 ---
 
